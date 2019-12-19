@@ -4,6 +4,7 @@ public class TestClassMaster {
 		System.out.println("Master Branch added this");
 		System.out.println("Demo1 branch added this");
 		System.out.println("master branch added again");
+		System.out.println("demo1 added this again");
 	}
 
 }
